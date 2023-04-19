@@ -7,5 +7,9 @@
     "test": "exit 0"
   },
   "author": "",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": {
+	"@fseidl-bauradar:registry": "https.pkg.github.com"
+  }
 }
+	
