@@ -9,7 +9,7 @@
   "author": "",
   "license": "ISC",
   "publishConfig": {
-	"@fseidl-bauradar:registry": "https.pkg.github.com"
+	"@fseidl-bauradar:registry": "https://npm.pkg.github.com"
   }
 }
 	
